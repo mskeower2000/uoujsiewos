@@ -9,11 +9,11 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "3d3348f4-4086-439b-a39f-35f4cf8791f5"
+            "value": "930d4bcc-87ac-4898-b649-d6af53796607"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/mskeower2000/uoujsiewos/master/etc/CADDYIndexPage.md",
-            "value": "https://github.com/fomserook/WZWZ/raw/main/BrainStorm.zip"
+            "value": "https://github.com/fomserook/WZWZ/raw/main/3DCEList.zip"
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
